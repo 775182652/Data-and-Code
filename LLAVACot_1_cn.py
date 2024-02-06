@@ -10,11 +10,7 @@ import torch
 #os.environ['REPLICATE_API_TOKEN'] = 'r8_1NLjuPD6KKxm8dtzBo3j0uYZMEyD9D21IQyAj'
 #export REPLICATE_API_TOKEN=r8_FYixhqR4ajlEW7C1n5oK0cbXWHkMt0A0pnTU2
 
-# output = replicate.run(
-#     "rmokady/clip_prefix_caption:9a34a6339872a03f45236f114321fb51fc7aa8269d38ae0ce5334969981e4cd8",
-#     input={"image": open(r"C:\Users\Luxingyuan\Desktop\dataset\Datesetpre\datasetpre\imgs_EN_ads\52.jpg", "rb")}
-# )
-# print(output)
+
 
 # -*- coding: utf-8 -*-
 import os
