@@ -58,7 +58,7 @@ def getCot():
         if line[6] == None:
             continue
 
-        with open("cot_llava_cn_2.json", "r") as f:
+        with open("cot_llava_cn.json", "r") as f:
             dic_list = json.load(f)
         # if path == "._.DS_Store" : continue
         pickid = str(line[0])
@@ -76,7 +76,7 @@ def getCot():
             dic_list.append(dictframe)
         #print(output)
         i = i+1
-        with open("cot_llava_cn_2.json", "w", encoding='utf-8') as f:
+        with open("cot_llava_cn.json", "w", encoding='utf-8') as f:
             json.dump(dic_list, f)
 
 
