@@ -1,7 +1,6 @@
 # from transformers import AutoModel
 #
-# proxies = {'http': 'http://127.0.0.1:7890', 'https': 'http://127.0.0.1:7890'}
-# model = AutoModel.from_pretrained('xlm-roberta-large', proxies=proxies)
+
 import replicate
 import os
 import json
