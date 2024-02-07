@@ -1,14 +1,13 @@
 # from transformers import AutoModel
 #
 
-# model = AutoModel.from_pretrained('xlm-roberta-large', proxies=proxies)
+
 import replicate
 import os
 import json
 import collections
 import torch
-#os.environ['REPLICATE_API_TOKEN'] = 'r8_1NLjuPD6KKxm8dtzBo3j0uYZMEyD9D21IQyAj'
-#export REPLICATE_API_TOKEN=r8_FYixhqR4ajlEW7C1n5oK0cbXWHkMt0A0pnTU2
+
 
 
 
