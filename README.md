@@ -1,10 +1,7 @@
 # AMultimodal Metaphorical Dataset for Emotion Classification and a Novel Method by Chain of Thought Prompt
 
-We release the DepthSenseMET Dataset, a multimodal metaphor detection dataset consisting of 10,437 pairs of text and images, with annotations indicating the presence of metaphors. In addition we propose a  novel methodology named Metaphorical Sense Knowledge Augmentation (MSKA) which harnesses metaphorical sense features derived from the metaphor sense lexicon, thereby enhancing metaphor comprehension to unprecedented levels.
-Our dataset is presented in the Ads.xlsx file, Fb.xlsx file and Twi xlsx file located in the data folder.
-* The data in Ads.xlsx is derived from advertisements.
-* The data in Fb.xlsx is derived from Facebook.
-* The data in Twi.xlsx is derived from Twitter.
+We release our Dataset, a multimodal metaphorical emotion dataset in chinese consisting of 5000 pairs of text and images, with annotations indicating the presence of metaphors, target domain, source domain and emotion categories. In addition we propose a  novel methodology  employing chain-of-thought prompt for source domain and target domain of metaphor.
+Our dataset is presented in the DataALL.xlsx file.
 
 ## Example Instance
 
