@@ -8,7 +8,7 @@ Our dataset is presented in the Ads.xlsx file, Fb.xlsx file and Twi xlsx file lo
 
 ## Example Instance
 
-.<div align='center'><img src='data_example.png' width="800" height="450"></div>
+.<div align='center'><img src='Ansample_cn.png' width="800" height="450"></div>
 
 In this example, words are arranged to form a hand giving a thumbs-up, expressing appreciation for civilized behavior. Therefore, the target domain is words, the source domain is the hand, and the sentiment is trust.
 
