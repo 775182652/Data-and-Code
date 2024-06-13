@@ -28,20 +28,20 @@ In this example, words are arranged to form a hand giving a thumbs-up, expressin
 
 | Key                     |                                    Value                                    |
 |-------------------------|:---------------------------------------------------------------------------:|
-| `Ima_id`            |                The address of the picture to be identified                  |
-| `Text`     |                                          The  text in the picture                              |
+| `Img_id`            |                The address of the image to be identified                  |
+| `Img_url`            |                The URL for downloading the image                  |
+| `Text`     |                                          The  text in the image                              |
 | `Metaphor`|           Metaphorical judgment (0: Literal ; 1: Metaphor)          |
 | `Target domain`|           Target domain in the metaphorical sample         |
 | `Source domain`|           Source domain in the metaphorical sample          |
 | `Emotion`            |                      The emotion of the metaphorical sample(1joy ; 2love ; 3trust ; 4fear ; 5sadness ; 6disgust ; 7anger ; 8surprise ; 9anticipation ; 10neutral)                 |
 
-
+* The images with numbers from 9981.jpg to 11377.jpg are from the IFlytek Advertising Image Classification Competition, released in 2021, without corresponding URL are provided in file naming dataF.
 
 ## Run the code
-In the data folder named code:
-* The execution of the data_utils.py file is responsible for reading the data.
-* model.py file represents the entire architecture of the model.
-* Running main.py completes the training and testing process.
+* LLAVAcaption.py is responsible for extracting captions from images.
+* LLAVACot_1_cn.py is responsible for getting Chain of thought prompt result.
+* code.py is the completes the training and testing process
 
 
 
@@ -51,8 +51,3 @@ In the data folder named code:
 
 
 
-
-# Data-and-Code
-The images with numbers from 9981.jpg to 11377.jpg are from the IFlytek Advertising Image Classification Competition, released in 2021, without corresponding URL are provided in file naming dataF.
-
-Please run LLAVAcaption.py and LLAVACot_1_cn.py before code.py.
