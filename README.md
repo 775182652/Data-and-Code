@@ -28,16 +28,14 @@ In this example, words are arranged to form a hand giving a thumbs-up, expressin
 
 | Key                     |                                    Value                                    |
 |-------------------------|:---------------------------------------------------------------------------:|
-| `Image_id`            |                The address of the picture to be identified                  |
-| `Text in Pic`     |                                          The  text in the picture                              |
+| `Ima_id`            |                The address of the picture to be identified                  |
+| `Text`     |                                          The  text in the picture                              |
 | `Metaphor`|           Metaphorical judgment (0: Literal ; 1: Metaphor)          |
-| `Sense`            |                       The primary categories of metaphorical sense(1: physical_property; 2: magnitude; 3: sensation; 4: shape; 5: state; 6: quality; 7: symbol )                 |
+| `Target domain`|           Target domain in the metaphorical sample         |
+| `Source domain`|           Source domain in the metaphorical sample          |
+| `Emotion`            |                      The emotion of the metaphorical sample(1joy ; 2love ; 3trust ; 4fear ; 5sadness ; 6disgust ; 7anger ; 8surprise ; 9anticipation ; 10neutral)                 |
 
 
-##Metaphorical Sense Lexion
-
-*Metaphorical Sense Lexicon.dox file stores all the primary categories, the corresponding secondary categories for each primary category, and examples for each secondary category of metaphorical sense.
-*The document contains a total of 7 primary categories, 129 secondary categories, and 3,724 examples.
 
 ## Run the code
 In the data folder named code:
