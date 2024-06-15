@@ -16,6 +16,7 @@ In this example, words are arranged to form a hand giving a thumbs-up, expressin
 * They identify these incongruent units and interpret the irreversible "A is B" identity relationship to recognize metaphorical text-image pairs.
 * By determining the primary theme that a sample intends to convey, one selects one of the two entities as the target domain, with the other entity describing the target domain referred to as the source domain.
 * They identify the most appropriate emotion.
+  
 **The classification and explanation of sentiments are as follows:**
 *Joy: Joy encompasses a sense of happiness, optimism, and relaxation, embracing feelings of tranquility and ecstasy.
 *Love: Love is a profound and positive emotional and psychological state, signifying deep and sincere affection towards individuals or entities. This sentiment has the power to evoke warm attraction, intense passion, and selfless dedication. Typically, love manifests in interpersonal relationships, such as those between family members, friends, or romantic partners.
