@@ -5,7 +5,7 @@ Our dataset is presented in the DataALL.xlsx file.
 
 ## Example Instance
 
-.<div align='center'><img src='annot.png' width="600" height="400"></div>
+.<div align='center'><img src='annot.png' width="600" height="350"></div>
 
 In this example, words are arranged to form a hand giving a thumbs-up, expressing appreciation for civilized behavior. Therefore, the target domain is words, the source domain is the hand, and the sentiment is trust.
 
