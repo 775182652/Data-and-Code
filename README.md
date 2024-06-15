@@ -18,6 +18,7 @@ In this example, words are arranged to form a hand giving a thumbs-up, expressin
 * They identify the most appropriate emotion.
   
 **The classification and explanation of sentiments are as follows:**
+* Our annotators identify incongruent units by examining the text and visual elements, often indicating the presence of metaphors. 
   
 *Joy: Joy encompasses a sense of happiness, optimism, and relaxation, embracing feelings of tranquility and ecstasy.
 *Love: Love is a profound and positive emotional and psychological state, signifying deep and sincere affection towards individuals or entities. This sentiment has the power to evoke warm attraction, intense passion, and selfless dedication. Typically, love manifests in interpersonal relationships, such as those between family members, friends, or romantic partners.
