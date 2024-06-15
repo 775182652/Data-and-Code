@@ -10,7 +10,7 @@ Our dataset is presented in the DataALL.xlsx file.
 In this example, words are arranged to form a hand giving a thumbs-up, expressing appreciation for civilized behavior. Therefore, the target domain is words, the source domain is the hand, and the sentiment is trust.
 
 ## Annotation Guideline
-
+**We provide annotators with annotation guidelines.The specific labeling steps are as follows:**
 
 * Our annotators identify incongruent units by examining the text and visual elements, often indicating the presence of metaphors. 
 * They identify these incongruent units and interpret the irreversible "A is B" identity relationship to recognize metaphorical text-image pairs.
