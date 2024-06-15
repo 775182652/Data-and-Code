@@ -18,17 +18,18 @@ In this example, words are arranged to form a hand giving a thumbs-up, expressin
 * They identify the most appropriate emotion.
   
 **The classification and explanation of sentiments are as follows:**
-* Our annotators identify incongruent units by examining the text and visual elements, often indicating the presence of metaphors. 
+
   
-*Joy: Joy encompasses a sense of happiness, optimism, and relaxation, embracing feelings of tranquility and ecstasy.
-*Love: Love is a profound and positive emotional and psychological state, signifying deep and sincere affection towards individuals or entities. This sentiment has the power to evoke warm attraction, intense passion, and selfless dedication. Typically, love manifests in interpersonal relationships, such as those between family members, friends, or romantic partners.
-*Trust: Trust involves the belief that someone or something is good, sincere, and honest. It encompasses emotions associated with acceptance, liking, and appreciation.
-*Fear: Fear conveys a negative sensation that arises in the face of danger or when confronted with something frightening. It encompasses emotions such as worry, anxiety, and panic, encapsulating a range of feelings including apprehension, anxiety, and terror.
-*Sadness: Sadness is commonly employed to characterize the psychological state experienced when confronting negative emotions like loss and pain. This emotional state typically manifests as a psychological condition marked by feelings of frustration, pensiveness, or grief.
-*Disgust: Disgust denotes a profound aversion towards someone or something deemed unacceptable, distasteful, or possessing unpleasant visual or olfactory qualities. This emotional response can encompass disinterest, dislike, or even a sense of loathing.
-*Anger: Anger is a potent emotion that surfaces when confronted with something bad or unjust. It encompasses feelings of trouble and rage, including annoyance and intense displeasure.
-*Surprise: Surprise is the emotion elicited by unforeseen or sudden events, manifesting in a state of distraction and amazement. 
-*Anticipation: Anticipation conveys a sense of excitement about an impending event, typically perceived as favorable. Additionally, it can be interpreted as keen interest and heightened vigilance.
+* **Joy**: Joy encompasses a sense of happiness, optimism, and relaxation, embracing feelings of tranquility and ecstasy.
+* **Love**: Love is a profound and positive emotional and psychological state, signifying deep and sincere affection towards individuals or entities. This sentiment has the power to evoke warm attraction, intense passion, and selfless dedication. Typically, love manifests in interpersonal relationships, such as those between family members, friends, or romantic partners.
+* **Trust**: Trust involves the belief that someone or something is good, sincere, and honest. It encompasses emotions associated with acceptance, liking, and appreciation.
+* **Fea**r: Fear conveys a negative sensation that arises in the face of danger or when confronted with something frightening. It encompasses emotions such as worry, anxiety, and panic, encapsulating a range of feelings including apprehension, anxiety, and terror.
+* **Sadness**: Sadness is commonly employed to characterize the psychological state experienced when confronting negative emotions like loss and pain. This emotional state typically manifests as a psychological condition marked by feelings of frustration, pensiveness, or grief.
+* **Disgust**: Disgust denotes a profound aversion towards someone or something deemed unacceptable, distasteful, or possessing unpleasant visual or olfactory qualities. This emotional response can encompass disinterest, dislike, or even a sense of loathing.
+* **Anger**: Anger is a potent emotion that surfaces when confronted with something bad or unjust. It encompasses feelings of trouble and rage, including annoyance and intense displeasure.
+* **Surprise**: Surprise is the emotion elicited by unforeseen or sudden events, manifesting in a state of distraction and amazement. 
+* **Anticipation**: Anticipation conveys a sense of excitement about an impending event, typically perceived as favorable. Additionally, it can be interpreted as keen interest and heightened vigilance.
+* **Neutral**: Neutral indicates that the advertisements evoke no specific emotional response.
 ## Data Format
 
 
